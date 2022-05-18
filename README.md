@@ -2,6 +2,52 @@
 
 I'm a computer science student, full-stack web & mobile apps developer. I'm always open for collaboration or discussion. You can contact me through my twitter account below:
 
+### My language and tools
+
+
+```json
+{
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "Library": [
+        "Bootsrtap",
+        "JQuery",
+        "ReactJs"
+      ],
+      "Framework": [
+        "codeigniter 3",
+        "Laravel",
+        "VueJs"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Beginner",
+      "stack": [
+        "React Native"
+      ]
+    }
+  ],
+  "Tools": [
+    {
+      "Database": "MySQL",
+      "Design": [
+        "Figma",
+        "Blender"
+      ]
+    }
+  ]
+}
+```
+
+### Contact Me 📫
 ```json
 {
   "profile": {
@@ -21,45 +67,6 @@ I'm a computer science student, full-stack web & mobile apps developer. I'm alwa
         "url": "https://linkedin.com/in/adithyaric"
       }
     ]
-  },
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Intermediate",
-      "Core": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "Library": [
-        "Bootsrtap",
-        "JQuery",
-        "ReactJs"
-      ],
-      "Framework": [
-        "codeigniter 3",
-        "Laravel",
-        "VueJs"
-      ]
-    },
-    {
-      "name": "Mobile Development",
-      "level": "Beginner",
-      "keywords": [
-        "React Native"
-      ]
-    }
-  ],
-  "Tools": [
-    {
-      "Database": "MySQL"
-    },
-    {
-      "Design": [
-        "Figma",
-        "Blender"
-      ]
-    }
-  ]
+  }
 }
 ```

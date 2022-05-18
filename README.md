@@ -1,6 +1,6 @@
 # Hello World !!! 👋
 
-I'm a computer science student, full-stack web & mobile apps developer. I'm always open for collaboration or discussion. You can contact me through my twitter account below:
+I'm a computer science student, full-stack web & mobile apps developer. I'm always open for collaboration or discussion. You can contact me through my accounts below:
 
 ### My language and tools
 

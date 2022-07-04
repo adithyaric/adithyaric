@@ -23,8 +23,7 @@ I'm a computer science student, full-stack web & mobile apps developer. I'm alwa
       ],
       "Framework": [
         "codeigniter 3",
-        "Laravel",
-        "VueJs"
+        "Laravel",        
       ]
     },
     {

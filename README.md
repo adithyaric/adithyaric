@@ -18,8 +18,7 @@ I'm a computer science student, full-stack web & mobile apps developer. I'm alwa
       ],
       "Library": [
         "Bootsrtap",
-        "JQuery",
-        "ReactJs"
+        "JQuery",        
       ],
       "Framework": [
         "codeigniter 3",
@@ -30,7 +29,7 @@ I'm a computer science student, full-stack web & mobile apps developer. I'm alwa
       "name": "Mobile Development",
       "level": "Beginner",
       "stack": [
-        "React Native"
+        ""
       ]
     }
   ],

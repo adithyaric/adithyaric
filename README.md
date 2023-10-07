@@ -6,7 +6,6 @@ I'm always open for collaboration or discussion. You can contact me through my a
 
 ### My language and tools
 
-
 ```json
 {
   "skills": [
@@ -14,29 +13,28 @@ I'm always open for collaboration or discussion. You can contact me through my a
       "name": "Web Development",
       "level": "Intermediate",
       "stack": ["HTML", "CSS", "JavaScript", "PHP"],
-      "Library": ["Bootsrtap", "JQuery", "ReactJs"],
-      "Framework": [
-        "Codeigniter 3",
-        "Laravel", One year plus of experience
-        "NextJs",
-      ]
+      "library": ["Livewire", "Bootsrtap", "JQuery"],
+      "framework": ["Codeigniter 3", "Laravel", "ReactJs"]
     },
     {
       "name": "Mobile Development",
       "level": "Beginner",
-      "stack": ["Flutter", "React Native"]
+      "stack": ["Dart", "Javascript"],
+      "library": [],
+      "framework": ["Flutter", "React Native"]
     }
   ],
-  "Tools": [
+  "tools": [
     {
-      "Database": "MySQL",
-      "Design": ["Draw.io","Figma"],
+      "database": "MySQL",
+      "design": ["Draw.io", "Figma"]
     }
   ]
 }
 ```
 
 ### Contact Me 📫
+
 ```json
 {
   "profile": {

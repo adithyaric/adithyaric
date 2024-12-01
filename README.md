@@ -1,10 +1,8 @@
 # Hello World !!! 👋
 
-I'm a computer science student, `full-stack` web (focusing on `Back-end`) & mobile apps `developer`.
+I'm a `full-stack` web developer (focusing on `Backend`), and I'm always open for collaboration or discussion.
 
-I'm always open for collaboration or discussion. You can contact me through my accounts below:
-
-### My language and tools
+### My programming language and tools
 
 ```json
 {
@@ -14,20 +12,13 @@ I'm always open for collaboration or discussion. You can contact me through my a
       "level": "Intermediate",
       "stack": ["HTML", "CSS", "JavaScript", "PHP"],
       "library": ["Livewire", "Bootsrtap", "JQuery"],
-      "framework": ["Codeigniter 3", "Laravel", "ReactJs"]
-    },
-    {
-      "name": "Mobile Development",
-      "level": "Beginner",
-      "stack": ["Dart", "Javascript"],
-      "library": [],
-      "framework": ["Flutter", "React Native"]
+      "framework": ["Codeigniter 3", "Laravel"]
     }
   ],
   "tools": [
     {
       "database": "MySQL",
-      "design": ["Draw.io", "Figma"]
+      "design": ["Draw.io"]
     }
   ]
 }
@@ -43,11 +34,6 @@ I'm always open for collaboration or discussion. You can contact me through my a
     "email": "muhammad.0718@students.amikom.ac.id",
     "url": "https://adithyaric.github.io/",
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "adithyaric",
-        "url": "https://twitter.com/adithyaric"
-      },
       {
         "network": "Linkedin",
         "username": "adithyaric",
